@@ -1,0 +1,29 @@
+.angebote-left-style{
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 8px 0px;
+}
+.angebote-left-style a{
+    text-decoration: none;
+    color: black;
+
+}
+.angebote-left-style ul{
+    list-style-type: none;
+}
+.angebote-left-style li{
+    border-bottom: 1px solid rgb(167, 162, 162);
+}
+.left-text-style{
+    font-weight: 600;
+}
+.angebote-right-box{
+    background-color: white;
+    margin: 0 auto;
+    max-width: 570px;
+    box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 8px 0px; 
+}
+.box-inside-style{
+    color: rgb(122, 122, 122);
+    line-height: 2em;
+    padding: 10px;
+}

@@ -1,12 +1,12 @@
-import logo from './logo.svg';
 import './App.css';
-import Contact from './Component/Contact/Contact';
+import Angebote from './Component/Angebote/Angebote';
+import angebote from './Component/Angebote/Angebote';
 
 function App() {
   return (
     <div className="">
-      <Contact/>
-     
+      
+     <Angebote></Angebote>
     </div>
   );
 }
